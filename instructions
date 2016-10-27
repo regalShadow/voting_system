@@ -1,2 +1,4 @@
+You must have a server with php running to use these files. I use a basic lamp install and run something like:
+
 sudo /opt/lampp/lampp start
 
