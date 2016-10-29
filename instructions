@@ -1,9 +1,6 @@
 You must have a server with php running to use these files. I use a basic lamp install and run something like:
-<<<<<<< HEAD
-=======
 
 sudo /opt/lampp/lampp start
->>>>>>> 441c4f96c687898af969860d3e5846d964b4d289
 
 $ sudo /opt/lampp/lampp start
 
